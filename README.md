@@ -8,7 +8,7 @@
  
 <div align="center">
    <strong>ReachOut</strong> - An Accessible software for facilitation of various Govt. schemes for persons with disabilities <br>
-  Smart India Hackathon '22 - Team TechnoSrats <br>
+ Software Engineering Project <br>
 </div>
 
 <hr>
