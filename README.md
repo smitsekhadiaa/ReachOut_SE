@@ -221,9 +221,6 @@ Once the required setup and installation is completed, you can start developing 
 
 ## 👩‍💻Team Members
 
-- [@Sarvagnya Purohit](https://github.com/saRvaGnyA)
 - [@Smit Sekhadia](https://github.com/smitsekhadiaa)
-- [@Harsh Nag](https://github.com/Jigsaw-23122002)
-- [@Anuraag Jajoo](https://github.com/anurgj)
-- [@Ketaki Deshmukh](https://github.com/KetakiMDeshmukh)
-- [@Devansh Joshi](https://github.com/devdev29)
+- [@Pratham Shah](https://github.com/shahpratham)
+
