@@ -61,11 +61,6 @@ The web-app has 3 access levels implemented
 
 ![image](https://user-images.githubusercontent.com/24823649/186804039-12923f65-a3dc-4452-aaef-f982ed37d96d.png)
   
-### Flowcharts for the Model
-
-![WhatsApp Image 2022-08-26 at 6 13 10 AM](https://user-images.githubusercontent.com/24823649/186803619-8be1770a-c349-4c71-9740-38f78b5118f4.jpeg)  
-
-![WhatsApp Image 2022-08-26 at 6 12 43 AM](https://user-images.githubusercontent.com/24823649/186803641-b8e025e7-4770-4f74-8aec-8279b967a9e5.jpeg)
 
   
 ## 🔗Links
