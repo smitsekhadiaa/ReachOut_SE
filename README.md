@@ -69,12 +69,10 @@ The web-app has 3 access levels implemented
 - [**ReachOut**](https://reach-out-sih-prototype.vercel.app/) 🚀
 
 ### Assets
-- [GitHub Repo](https://github.com/saRvaGnyA/ReachOut-SIH-Prototype)
-- [GitHub Repo for the Model](https://github.com/devdev29/reachout_gesture_api)
+- [GitHub Repo](https://github.com/smitsekhadiaa/ReachOut_WIM)
 
 ### Backend (Heroku)
 - [ReachOut Server](https://reachout-sih.herokuapp.com/)
-- [ReachOut Gesture Detection Model Deployment](https://reachout-gesture-api.herokuapp.com/)
 
 ## 🤖Tech-Stack
 
@@ -92,10 +90,6 @@ The web-app has 3 access levels implemented
 - Hasura GraphQL API (over the Postgres DB)
 - FastAPI (for the model)
 
-### Machine Learning
-
-- Tensorflow (for gesture detection)
-- Gensim (for document parsing)
 
 ## 📈Progress
 
@@ -105,7 +99,6 @@ The web-app has 3 access levels implemented
 - [x] Designing web components using a color-blind friendly scheme and implemented a high-contrast UI
 - [x] Voice and keyboard navigation
 - [x] Speech to Text for search, forms and navigation
-- [x] Gesture Detection for navigation
 - [x] A full-fledged accessibility toolbar for fonts and cursors
 
 ### Platform
@@ -158,26 +151,6 @@ The web-app has 3 access levels implemented
    ```
 4. If you are working on Visual Studio Code or WebStorm, it'd be convenient to install the extensions for [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) and [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
 
-### For the model
-
-1. Clone the GitHub repo
-   ```
-   $ git clone https://github.com/devdev29/reachout_gesture_api.git
-   ```
-2. Create a virtual environment on the anaconda command prompt (Install [conda](https://docs.conda.io/en/latest/) if not installed) and then switch to that virtual environment. Lets say the name of the env is test.
-   ```
-   $ conda create -n test python=3.8 anaconda
-   $ conda activate test
-   ```
-3. Look for requirments.txt and install the packages.
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-### For the FastAPI
-
-1. Look for the `main.py` and `runtime.py` files and have them ready. (The packages for FastAPI would already be installed when you run command number 3 in the above section)
-
 ## 💻Usage
 
 Once the required setup and installation is completed, you can start developing and running the project.
@@ -197,21 +170,6 @@ Once the required setup and installation is completed, you can start developing 
    SKIP_PREFLIGHT_CHECK = true
    ```
 
-### For the model and for the FastAPI
-
-1. Locate to the `Model` directory. The models for the project are in `gesture_model.tflite` file.
-
-2. Open the command prompt for anaconda and switch to the virtual environment that you created. (example: test)
-
-   ```
-   $ conda activate test
-   ```
-
-3. To initiate the server, type the following in the command prompt
-
-   ```
-   $ python main.py
-   ```
 
 ## 👩‍💻Team Members
 
