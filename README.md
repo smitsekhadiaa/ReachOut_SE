@@ -1,14 +1,10 @@
 <h1 align="center">
-  <a href="https://github.com/saRvaGnyA/ReachOut-SIH-Prototype">
-    <img src="https://github.com/saRvaGnyA/ReachOut/raw/main/client/src/Logos/Logo2.png" alt="ReachOut" width="250" height="250">
-  </a>
-  <br>
   ReachOut
 </h1>
  
 <div align="center">
    <strong>ReachOut</strong> - An Accessible software for facilitation of various Govt. schemes for persons with disabilities <br>
- Software Engineering Project <br>
+ WIM-Lab Project <br>
 </div>
 
 <hr>
